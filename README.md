@@ -1,4 +1,4 @@
-# fer_with_CNN
+# FER_with_CNN
 Facial Expression Recognition with Deep Learning
 
 ## Packages to install:
