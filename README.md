@@ -1,5 +1,6 @@
 # FER_with_CNN
 Facial Expression Recognition with Deep Learning
+In this system we are using the streamlit to create an application that are able to accept user use their own image to detect the faced. after uploading the image, the web application should show an image as shown below. As you can see, the faces in the image below are having a square box and the emotion detected from the image.
 
 ## Packages to install:
 -cv2
