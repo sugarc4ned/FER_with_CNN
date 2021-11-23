@@ -11,7 +11,7 @@ Facial Expression Recognition with Deep Learning
 -tensorflow
 
 ## Dataset:
-You need to download the fer-2013 dataset from kaggle.com 
+You need to download the fer-2013 dataset from 
 https://www.kaggle.com/msambare/fer2013
 
 ## Haarcascades File:
